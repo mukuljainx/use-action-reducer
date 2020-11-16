@@ -1,2 +1,2 @@
-# use-action-reducer
+# use-typed
 Created with CodeSandbox
